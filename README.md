@@ -26,3 +26,9 @@ Check out my friend's and my music at https://push.fm/fl/ambyance
 😄 Pronouns: he, him
 
 ⚡ Fun fact: I started programming when I was like eight or something.
+
+![Mithil's github stats](https://github-readme-stats.vercel.app/api?username=mithilp&count_private=true&theme=tokyonight&show_icons=true&hide=prs,issues)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mithilp)
+
+![](https://komarev.com/ghpvc/?mithilp)
