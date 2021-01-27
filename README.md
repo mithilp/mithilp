@@ -14,7 +14,7 @@ Check out my articles and writing at https://mithilpatil.medium.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mithilp)
 
-I’m currently working on a website to help small businesses. Check out https://gofundme.com/helpcounity to learn more.
+I’m currently working on a website to help small businesses. Check out https://counity.web.app/ to learn more.
 
 I’m currently learning C and other low-level programming languages.
 
