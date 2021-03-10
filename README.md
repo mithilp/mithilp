@@ -1,11 +1,9 @@
 # Hi there 👋
-My name is **Mithil Patil**. I am a 14-year-old child and I love to code. `</>`
+My name is **Mithil Patil**. I am a 14-year-old child and I love to code because it can do a lot of things.
 
-I'll start off with saying I use Visual Studio Code because it is amazing. 🤩 
+And I do a lot of things.
 
-I love web design because you can do sooooo much stuff with it. 🎨
-
-I love working with a team because you can always help each other out, and you get things done faster. 👥
+I mainly use and code the web because you can do a lot of stuff with it both visually and programmatically.
 
 Check out my articles and writing at https://mithilpatil.medium.com (there's only one right now but I'll be writing more)
 
